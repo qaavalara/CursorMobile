@@ -1,7 +1,11 @@
 {
   "mcpServers": {
     "SBX-atc-external": {
-      "url": "https://MCP.sbx.avalara.com/atc"
+      "type": "http",
+      "url": "https://MCP.sbx.avalara.com/atc",
+      "headers": {
+        "Authorization": "Bearer 3f56987bbcef4e94672fb3d6df0fede76ce07a8904fd6167b4f17edce638bc72"
+      }
     }
   }
 }
