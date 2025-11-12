@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "SBX-atc-external": {
-      "url": "https://mcp.sbx.avalara.com/atc"
+      "url": "https://MCP.sbx.avalara.com/atc"
     }
   }
 }
